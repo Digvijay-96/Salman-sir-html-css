@@ -1,0 +1,46 @@
+Salman sir videos link(htms css)2022
+
+16 june 2022- fundamentals
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/f415dc196e2a48368a6da1bbc4149f7a.mp4
+
+17 june 2022 -Meta Tags, Attributes, Entities, Href, Alt, HTML
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/dc399c7655c64cc09f2a1e7bb64d5a83.mp4
+
+20 june 2022 -Semantic HTML, Layout, Header, Nav, Section, Aside, Footer
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/7f28bdcebcfe4785b42aa940792f2aba.mp4
+
+21 june 2022 -media list
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/f032b0e052f7498eb52be253588c7d5e.mp4
+
+22 june 2022 - tables
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/ba280093d4d049b29a5ab08722427044.mp4
+
+23 june 2022 - Base Elements, Form attributes, Buttons
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/fbe45d6716224d21ba36f9e9b84f985c.mp4
+
+24 june 2022 -Select, Option tag, Input type checkbox, Input type text, Placeholder, Required
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/cb1e4188bb684e8bbf0faaf8d44ac1f1.mp4
+
+27 june 2022 - HTML Forms, Input types, Input attributes, Input type button
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/bb1825e3cf4b4d588e3077d9177b34f3.mp4
+
+28 june 2022 - Form Elements
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/0d0cd04e8e034601b612f7c5e0bdf338.mp4
+
+29 june 2022 - basic selectors
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/78f0c5c0667542c3a201bdd4025b1d97.mp4
+
+30 june 2022 - Id selector, Class selector, Text Color
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/0bf467a871844afaa0c686717d10111a.mp4
+
+1 july 2022 - combinators
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-dshej05q138f-8179f6b338b744af9c2fcae1e2392038.mp4
+
+4 july 2022 - Box model
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-jzpwjueghda0-1fb2168c7adb46e59e0d3e2a926fa797.mp4
+
+5 july 2022 - CSS Colours, CSS Margin and Padding, Background Color
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-uprnaq68ynzq-d7b652c7c6374d3a96237cdeb7f30967.mp4
+
+6 july 2022- pre flexbox
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-hp5xqhq7x7rs-87644ac909b64ee8b0fda6b117798f7a.mp4
