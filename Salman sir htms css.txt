@@ -44,3 +44,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-uprnaq6
 
 6 july 2022- pre flexbox
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-hp5xqhq7x7rs-87644ac909b64ee8b0fda6b117798f7a.mp4
+
+7 july 2022 - CSS Backgrounds, Flexbox
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-krydswt3c90h-5acc710a8aa443209dcea268ba6cae44.mp4
+
+8 july 2022 - CSS Grid
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-he2iiwcg8wrq-e912e70c59bc442fb5df0df8c26bd5ce.mp4
