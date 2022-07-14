@@ -50,3 +50,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-krydswt
 
 8 july 2022 - CSS Grid
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-he2iiwcg8wrq-e912e70c59bc442fb5df0df8c26bd5ce.mp4
+
+12 july 2022 - CSS text-effects, Media Queries, Responsive Images and Videos
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-hbkbbkz7tv1q-5e3ff6b1f6c04936b1c1ef0e6adbee49.mp4
+
+13 july 2022 - CSS Shadows, CSS Styling, Responsive CSS, CSS Gradients, Animations
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-s2xmhboi94fz-d8fd8ef9179a4e91bb80e355f3ab0061.mp4
