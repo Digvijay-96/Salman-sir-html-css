@@ -56,3 +56,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-hbkbbkz
 
 13 july 2022 - CSS Shadows, CSS Styling, Responsive CSS, CSS Gradients, Animations
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-s2xmhboi94fz-d8fd8ef9179a4e91bb80e355f3ab0061.mp4
+
+14 july 2022 - Pseudo elements, Selector-Attributes
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-nq3l9tfn5zjz-0f295898160e467e980094adea05ab0a.mp4
