@@ -59,3 +59,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-s2xmhbo
 
 14 july 2022 - Pseudo elements, Selector-Attributes
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-nq3l9tfn5zjz-0f295898160e467e980094adea05ab0a.mp4
+
+15 july 2022 -CSS, Selectors, Pseudo classes, JS introduction, Execution Context and Call Stac
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-cyv66scfom8t-4c23dcbabcd74e9c846fbfb3c3205aad.mp4
