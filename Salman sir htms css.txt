@@ -65,3 +65,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-cyv66sc
 
 19 july 2022 -CSS, Selectors, Pseudo classes
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ytq40zjw2m7o-12fadaef53a3436587a4650f20c1fefa.mp4
+
+20 july 2022 - JS introduction, Execution Context and Call Stack, Javascript in browsers, JS Le
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-uwbhp5wrgxhq-d7a81517bf60417889ac4b6d6d4a573c.mp4
