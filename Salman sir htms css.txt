@@ -71,3 +71,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-uwbhp5w
 
 21 july 2022 -JS introduction, Execution Context and Call Stack, Javascript in browsers, JS Le
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-kwgxjbw1r3em-bb0075f6f94a40dabade6f155db1ad9b.mp4
+
+22 july 2022 -Javascript in browsers
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-sjcxqq5su9t6-428f3acb46344bffaca0ec21f29d2c95.mp4
