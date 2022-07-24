@@ -74,3 +74,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-kwgxjbw
 
 22 july 2022 -Javascript in browsers
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-sjcxqq5su9t6-428f3acb46344bffaca0ec21f29d2c95.mp4
+
+24 july 2022 - JS primitive types
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-1ujw1bknf4mr-59f1d126e13d4ad9a3b70a3c2c4190e3.mp4
