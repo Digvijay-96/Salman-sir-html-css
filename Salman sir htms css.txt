@@ -77,3 +77,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-sjcxqq5
 
 24 july 2022 - JS primitive types
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-1ujw1bknf4mr-59f1d126e13d4ad9a3b70a3c2c4190e3.mp4
+
+25 july 2022 - JS introduction, Execution Context and Call Stack, JS Lexical Environment,
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-5pu19b7saaeb-997f48626d534105944ccd3ff9e706f8.mp4
