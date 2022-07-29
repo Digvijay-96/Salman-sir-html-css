@@ -80,3 +80,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-1ujw1bk
 
 25 july 2022 - JS introduction, Execution Context and Call Stack, JS Lexical Environment,
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-5pu19b7saaeb-997f48626d534105944ccd3ff9e706f8.mp4
+
+26 july 2022 -JS introduction, JS Lexical Environment, Var vs const vs let (Scope), 
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-cj1o9u9imzi1-d724d9a001664bef938d48ea785c365b.mp4
+
+28 july 2022 - JS control flow
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gsmc00gcrm6h-3a4004cfe5a14964aeb6e13560b3e928.mp4
