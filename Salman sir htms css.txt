@@ -86,3 +86,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-cj1o9u9
 
 28 july 2022 - JS control flow
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gsmc00gcrm6h-3a4004cfe5a14964aeb6e13560b3e928.mp4
+
+29 july 2022 - JS String
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-7ezmfmxibvlg-a58b020507b740eda46ba8c87b8371d4.mp4
