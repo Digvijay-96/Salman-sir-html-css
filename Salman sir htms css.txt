@@ -89,3 +89,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gsmc00g
 
 29 july 2022 - JS String
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-7ezmfmxibvlg-a58b020507b740eda46ba8c87b8371d4.mp4
+
+31 july 2022 - 2JS Functions, First class functions, Anonymous functions, named functions
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-6ldak0dilk2o-5fedfaa1cde043c39d7237fb1d676aaa.mp4
