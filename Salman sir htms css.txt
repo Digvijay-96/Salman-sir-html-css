@@ -92,3 +92,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-7ezmfmx
 
 31 july 2022 - 2JS Functions, First class functions, Anonymous functions, named functions
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-6ldak0dilk2o-5fedfaa1cde043c39d7237fb1d676aaa.mp4
+
+1 Aug 2022 -JS Functions, First class functions, Anonymous functions, named functions
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-l8ybqb4fcic9-cdddbbacb8b146e4a1217aa5ec84bddb.mp4
