@@ -101,3 +101,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-fe2dwwo
 
 3 aug 2022 -Array loop methods (map, filter, reduce, forEach, some, every find)
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-x0eq41j1gg7y-eb90fb86c1474d64bffaf51ac960f50d.mp4
+
+4 aug 2022 - JS array
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gti9fqn4ppiw-04d3df5fd48343fea3676a9155b04632.mp4
