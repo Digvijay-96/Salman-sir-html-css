@@ -104,3 +104,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-x0eq41j
 
 4 aug 2022 - JS array
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gti9fqn4ppiw-04d3df5fd48343fea3676a9155b04632.mp4
+
+5 aug 2022 -JS math
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-kq84lbrwa40i-642520628d10430091ede1c76ac4595c.mp4
