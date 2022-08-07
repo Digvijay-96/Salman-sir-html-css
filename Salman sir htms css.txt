@@ -107,3 +107,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gti9fqn
 
 5 aug 2022 -JS math
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-kq84lbrwa40i-642520628d10430091ede1c76ac4595c.mp4
+
+6 aug 2022 - JS date
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-2jc91n2i1dbt-9b1d3368e23742809e5ce4a53335351e.mp4
+
+7 aug 2022 -DOM manipulation
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-shqf5fiqrtqh-d1b350b7a01f4722b22149b8469eed52.mp4
