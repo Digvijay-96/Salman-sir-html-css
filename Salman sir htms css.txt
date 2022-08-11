@@ -119,3 +119,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-a4gx3hh
 
 9 aug 2022 - DOM Events
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-uhqg9axy5221-0bc132242b7f44ad9c931d365379deb3.mp4
+
+10 aug 2022 -DOM Model
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ideb59gc8xrk-b3b178547c514c0485f6da0e17ed9aa7.mp4
