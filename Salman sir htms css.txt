@@ -125,3 +125,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ideb59g
 
 11 aug 2022 -Event bubbling, capturing and propagation
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-2ruf4nbtkp1a-4fd1948b2e8048778dfdd666de85033c.mp4
+
+16 aug 2022 - First class functions
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ilozuk1l8rng-04e9ce9b80a94c7aa3fccefb99a1fc40.mp4
