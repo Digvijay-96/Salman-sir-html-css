@@ -134,3 +134,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ceb6m1x
 
 18 aug 2022 -JS BOM history, JS BOM navigator
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-rgnkae9ze7hp-2df3435be5d743618157e90dacea27b8.mp4
+
+20 aug 2022 -JS BOM, JS Arrow functions
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-r7h7jqmp1jem-199fa0daeb454e46bb269b5b16f9a777.mp4
+
+21 aug 2022 -setInterval
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-rxvql7r7pp5v-38aa0e5ba3964fed90714c53c87c700d.mp4
