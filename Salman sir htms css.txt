@@ -140,3 +140,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-r7h7jqm
 
 21 aug 2022 -setInterval
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-rxvql7r7pp5v-38aa0e5ba3964fed90714c53c87c700d.mp4
+
+23 aug 2022 -ES6 Classes, JS Static Methods, ES6 Getters & Setters, ES6 Inheritance, ES6 Meth
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-z080l9ti0mnl-87eacfb868904a40b69a085b9efdee98.mp4
