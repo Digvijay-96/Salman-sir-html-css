@@ -143,3 +143,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-rxvql7r
 
 23 aug 2022 -ES6 Classes, JS Static Methods, ES6 Getters & Setters, ES6 Inheritance, ES6 Meth
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-z080l9ti0mnl-87eacfb868904a40b69a085b9efdee98.mp4
+
+24 aug 2022 - JS Spread operator
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-f5vufsrunzk7-a4c262dc89d24b999b3f2573ab8d9331.mp4
