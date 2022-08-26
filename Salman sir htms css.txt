@@ -146,3 +146,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-z080l9t
 
 24 aug 2022 - JS Spread operator
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-f5vufsrunzk7-a4c262dc89d24b999b3f2573ab8d9331.mp4
+
+25 aug 2022 -ES6
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-akad22ombfga-b15832f744a643d99d0c2f70d04367ba.mp4
