@@ -149,3 +149,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-f5vufsr
 
 25 aug 2022 -ES6
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-akad22ombfga-b15832f744a643d99d0c2f70d04367ba.mp4
+
+26 aug 2022 -JS Hoisting
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-vhz4401aivxz-a1730bc642754ca6a1b856cfa64a6bdf.mp4
