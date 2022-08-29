@@ -152,3 +152,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-akad22o
 
 26 aug 2022 -JS Hoisting
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-vhz4401aivxz-a1730bc642754ca6a1b856cfa64a6bdf.mp4
+
+27 aug 2022 -JS Basic OOPS, 4 pillars
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-999sxgt72pzz-d30c0479ec8b4aa6a9bb65e4f18dddd9.mp4
+
+28 aug 2022 -JS Functions, Anonymous functions, named functions expression, JS higher order 
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gv7xwwmak2ga-b23b6f6394004758a5b714f11a8ff3fe.mp4
