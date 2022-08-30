@@ -158,3 +158,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-999sxgt
 
 28 aug 2022 -JS Functions, Anonymous functions, named functions expression, JS higher order 
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gv7xwwmak2ga-b23b6f6394004758a5b714f11a8ff3fe.mp4
+
+29 aug 2022 -Prototype inheritence
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ljiqiibf3fmm-adb8bd418b424edfa4aa8effd9426529.mp4
