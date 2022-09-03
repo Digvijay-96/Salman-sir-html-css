@@ -164,3 +164,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ljiqiib
 
 30 aug 2022 -Callback function, JS Prototypes, Anonymous functions, named functions
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-lfno1ktxngx1-4d035e68932f428c8c7b0a733176ea49.mp4
+
+2 sept 2022 -JS Functions, JS higher order functions, closure, Js objects, JS currying, JSON
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-aqyr425edkyi-226b3bca152542af86607e64d9af9522.mp4
