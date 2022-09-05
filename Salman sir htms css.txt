@@ -167,3 +167,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-lfno1kt
 
 2 sept 2022 -JS Functions, JS higher order functions, closure, Js objects, JS currying, JSON
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-aqyr425edkyi-226b3bca152542af86607e64d9af9522.mp4
+
+3 sept 2022 -Promises, Async await try catch, Promise.all
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-flfdsob4hiix-fe9266f1097b4c249bfecdbcf95b1d4f.mp4
+
+4 sept 2022 -JavaScript Asynchronous Programming, Ajax intro, JS fetch, Axios
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-mylcu3fecvhi-a05aaae987cf455aaa894c5b73bd371e.mp4
