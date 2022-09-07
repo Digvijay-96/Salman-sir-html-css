@@ -173,3 +173,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-flfdsob
 
 4 sept 2022 -JavaScript Asynchronous Programming, Ajax intro, JS fetch, Axios
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-mylcu3fecvhi-a05aaae987cf455aaa894c5b73bd371e.mp4
+
+6 sept 2022 -JavaScript Asynchronous Programming, Ajax intro, JS fetch
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-zmtxcd8j5q73-bdca7d696b894c8191417021f5a2613a.mp4
