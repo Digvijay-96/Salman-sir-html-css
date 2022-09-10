@@ -179,3 +179,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-zmtxcd8
 
 7 sept 2022 -JS Major Project (Note Keeping), Axios
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-quaniy2le7hm-6da4fef246c74b39a92e142b3cebe115.mp4
+
+8 sept 2022 -JS Major Project Sudoku
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-giwi8k0nvv2g-8464c9b631804a2db8f6313e6842f03c.mp4
+
+9 sept 2022 -JS Major Project Movie Booking
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ydddfpt6w0gw-44e89c439da047f99bede1a5acb71635.mp4
