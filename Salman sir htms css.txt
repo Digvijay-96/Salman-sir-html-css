@@ -185,3 +185,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-giwi8k0
 
 9 sept 2022 -JS Major Project Movie Booking
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ydddfpt6w0gw-44e89c439da047f99bede1a5acb71635.mp4
+
+11 sept 2022 -ReactJS, React getting started, What is React JS?, Why React?, Create-react-app,
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-i93cmbv6h9oo-8f5b4dd6601d47d0a527b57921d06e99.mp4
