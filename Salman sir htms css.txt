@@ -188,3 +188,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ydddfpt
 
 11 sept 2022 -Assignment,revision
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-i93cmbv6h9oo-8f5b4dd6601d47d0a527b57921d06e99.mp4
+
+13 sept 2022 -NPM + NPM Scripts, Introduction to NPM, Setting up NPM & package.json, Installing
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-b8zhor6zx0j6-10d2fee88d804d1eb0b680833e4e50f0.mp4
