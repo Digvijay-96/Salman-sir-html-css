@@ -191,3 +191,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-i93cmbv
 
 13 sept 2022 -NPM + NPM Scripts, Introduction to NPM, Setting up NPM & package.json, Installing
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-b8zhor6zx0j6-10d2fee88d804d1eb0b680833e4e50f0.mp4
+
+14 sept 2022 -React getting started, What is React JS?, Why React?, Create-react-app,
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-nei2udynk6qf-46845ceb260a4fb7b06c40756110ac95.mp4
