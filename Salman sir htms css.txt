@@ -194,3 +194,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-b8zhor6
 
 14 sept 2022 -React getting started, What is React JS?, Why React?, Create-react-app,
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-nei2udynk6qf-46845ceb260a4fb7b06c40756110ac95.mp4
+
+15 sept 2022 -React Basics, What Are Components?, Introducing JSX, Building a First Custom Function
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ss8lkxmod5nm-af581feaaecf4df293af5d238edd331b.mp4
