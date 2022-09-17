@@ -197,3 +197,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-nei2udy
 
 15 sept 2022 -React Basics, What Are Components?, Introducing JSX, Building a First Custom Function
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ss8lkxmod5nm-af581feaaecf4df293af5d238edd331b.mp4
+
+16 sept 2022 -Outputting Dynamic Data & Working with Expressions in JSX, Understand & work with
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-75q4ktchv79q-a99288952ea84ce4bcf4e56dc282c982.mp4
