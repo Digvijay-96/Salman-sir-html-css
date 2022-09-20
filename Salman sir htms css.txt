@@ -206,3 +206,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-852j2xz
 
 18 sept 2022 -Assignments
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-kkn55iqvy78r-75af26ca056243bf94a613aa82c9ae14.mp4
+
+19 sept 2022 -JSX Limitations, Rendering Lists of Data, Using Stateful Lists, Understanding "K ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-z6b0x7lu40g5-7102e149a6d440459d9e5548e63fc872.mp4
