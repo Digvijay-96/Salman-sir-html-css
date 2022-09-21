@@ -209,3 +209,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-kkn55iq
 
 19 sept 2022 -JSX Limitations, Rendering Lists of Data, Using Stateful Lists, Understanding "K ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-z6b0x7lu40g5-7102e149a6d440459d9e5548e63fc872.mp4
+
+20 sept 2022 -Adding Form Inputs, Listening to User Input, Handling Form Submission, Working w ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-5syyfe1qwbue-590e73f251404a2ea96fb2de072c0d6f.mp4
