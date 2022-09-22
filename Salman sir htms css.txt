@@ -212,3 +212,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-z6b0x7l
 
 20 sept 2022 -Adding Form Inputs, Listening to User Input, Handling Form Submission, Working w ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-5syyfe1qwbue-590e73f251404a2ea96fb2de072c0d6f.mp4
+
+21 sept 2022 -React Fragments, Introducing React Portals, Updating State That Depends On The 
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-fn0tgiir1uci-e0652ecae27b4d719c5775bfe515686f.mp4
