@@ -218,3 +218,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-fn0tgii
 
 22 sept 2022 -React Basics, React State & Events, Working with Fragments, portals, refs, Child ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ztt2v6k3ccdz-79d3fef8b2a34ceb9760e43207773edb.mp4
+
+23 sept 2022 -Using the useEffect() Hook, Using useEffect() For handling Request
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gkr0g22skypw-70c12b7a4fa74e888761d08374323cde.mp4
