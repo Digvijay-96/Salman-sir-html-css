@@ -221,3 +221,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ztt2v6k
 
 23 sept 2022 -Using the useEffect() Hook, Using useEffect() For handling Request
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gkr0g22skypw-70c12b7a4fa74e888761d08374323cde.mp4
+
+25 sept 2022 -react assignment
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-5n731ukpqqb6-732f04db565a40d7a9efa8234ea9f921.mp4
