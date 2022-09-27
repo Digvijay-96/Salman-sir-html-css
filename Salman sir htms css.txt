@@ -224,3 +224,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gkr0g22
 
 25 sept 2022 -react assignment
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-5n731ukpqqb6-732f04db565a40d7a9efa8234ea9f921.mp4
+
+26 sept 2022 -React Handling Side Effects, Class-based vs Functional Components, First Class-b ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-syjb7crwfy1z-07202d90028246eda04a21cddbfccb57.mp4
