@@ -227,3 +227,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-5n731uk
 
 26 sept 2022 -React Handling Side Effects, Class-based vs Functional Components, First Class-b ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-syjb7crwfy1z-07202d90028246eda04a21cddbfccb57.mp4
+
+27 sept 2022 -Class based Component Lifecycle, Sending a GET Request using fetch (class based ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-4qmltfyji5xx-32d48c31b7de4bd99c28c8729f630a92.mp4
