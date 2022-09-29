@@ -230,3 +230,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-syjb7cr
 
 27 sept 2022 -Class based Component Lifecycle, Sending a GET Request using fetch (class based ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-4qmltfyji5xx-32d48c31b7de4bd99c28c8729f630a92.mp4
+
+28 sept 2022 -Lifecycle Methods In Action, Class-based Components & Context, Error Boundaries
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-g1nry1oajv8l-ace8cac6f75a442bac1f8d78bfcf591f.mp4
