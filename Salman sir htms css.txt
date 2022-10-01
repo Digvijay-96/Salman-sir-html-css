@@ -236,3 +236,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-g1nry1o
 
 29 sept 2022 -Class based components, UseReducer Hook, What are "Side Effects" & Introducing u ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-7fkoyfi9ej5q-c3a64c08a007479d90c0d6ed4099206d.mp4
+
+30 sept 2022 -Working with Forms & User inputs, Providing Validation Feedback
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-lifq5zas3ofc-67b181afe2924fe8b1d60ae9c131dd55.mp4
