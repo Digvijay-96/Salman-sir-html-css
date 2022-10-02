@@ -239,3 +239,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-7fkoyfi
 
 30 sept 2022 -Working with Forms & User inputs, Providing Validation Feedback
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-lifq5zas3ofc-67b181afe2924fe8b1d60ae9c131dd55.mp4
+
+1 oct 2022 -ReactJS, Working with APIs(React), Handling loading of data building a loader, C ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-l308m2bt992i-27a3d961cd4f44278897782846664f4b.mp4
