@@ -242,3 +242,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-lifq5za
 
 1 oct 2022 -ReactJS, Working with APIs(React), Handling loading of data building a loader, C ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-l308m2bt992i-27a3d961cd4f44278897782846664f4b.mp4
+
+2 oct 2022 -React assignment
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-9az1jykeom7i-f797b929f5d04d328af84c154a851053.mp4
