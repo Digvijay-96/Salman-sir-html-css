@@ -245,3 +245,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-l308m2b
 
 2 oct 2022 -React assignment
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-9az1jykeom7i-f797b929f5d04d328af84c154a851053.mp4
+
+3 oct 2022 -A Closer Look At Child Component Re-Evaluation, Preventing Unnecessary Re-Evalua ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gf40obfpz1h9-71542f2e032c43e396cd7eb49ed8adf1.mp4
