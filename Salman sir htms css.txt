@@ -248,3 +248,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-9az1jyk
 
 3 oct 2022 -A Closer Look At Child Component Re-Evaluation, Preventing Unnecessary Re-Evalua ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gf40obfpz1h9-71542f2e032c43e396cd7eb49ed8adf1.mp4
+
+4 oct 2022 -Context API, Intro React Context API, Using the React Context API, Tapping Into
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-pvi0atfmvg15-15ee0192f8994edf9e49b74e2448f8f6.mp4
