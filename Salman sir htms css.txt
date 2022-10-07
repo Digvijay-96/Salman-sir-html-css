@@ -251,3 +251,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-gf40obf
 
 4 oct 2022 -Context API, Intro React Context API, Using the React Context API, Tapping Into
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-pvi0atfmvg15-15ee0192f8994edf9e49b74e2448f8f6.mp4
+
+6 oct 2022 -What is Routing & Why?, Installing React Router, Defining & Using Routes (React) 
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-s5gqoo3r5ggy-17f31a7aa6774d4a8c034b06fe75c2cf.mp4
