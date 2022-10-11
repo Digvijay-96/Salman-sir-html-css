@@ -257,3 +257,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-s5gqoo3
 
 7 oct 2022 -React Router, Working with APIs(React), Building theme toggler, Adding Dynamic R
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-9w86u7zngkub-9383de173ebf41dd9f7df7e7dcd53df4.mp4
+
+10 oct 2022 -React Optimization, Handling loading of data building a loader, State Scheduling 
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-wbj2txatrhqe-95266d0bf1e643acbaddc43b32dfbd74.mp4
