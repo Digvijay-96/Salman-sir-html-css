@@ -260,3 +260,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-9w86u7z
 
 10 oct 2022 -React Optimization, Handling loading of data building a loader, State Scheduling 
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-wbj2txatrhqe-95266d0bf1e643acbaddc43b32dfbd74.mp4
+
+11 oct 2022 -ReactJS, React Authentication, Add signin, signup, logout functionality(React)
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-1dsyfrdyk8kj-b07b64b6239848e69ce3d17ff4444d4c.mp4
