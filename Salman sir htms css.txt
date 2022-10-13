@@ -263,3 +263,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-wbj2txa
 
 11 oct 2022 -ReactJS, React Authentication, Add signin, signup, logout functionality(React)
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-1dsyfrdyk8kj-b07b64b6239848e69ce3d17ff4444d4c.mp4
+
+12 oct 2022 -Redux Intro, Redux vs React Context, How Redux Works + State Management, Install 
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ced4utl7p6dq-c80befcb880e4876ae873e45b41c9ce0.mp4
