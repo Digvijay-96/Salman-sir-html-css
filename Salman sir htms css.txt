@@ -266,3 +266,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-1dsyfrd
 
 12 oct 2022 -Redux Intro, Redux vs React Context, How Redux Works + State Management, Install 
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ced4utl7p6dq-c80befcb880e4876ae873e45b41c9ce0.mp4
+
+14 oct 2022 -Redux, Redux Actions & reducers, Redux Store & Provider, Redux connect(), Redux ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-xnghg8v4eb4b-c801eec594474c6b85795c6f373eedc4.mp4
