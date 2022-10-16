@@ -269,3 +269,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ced4utl
 
 14 oct 2022 -Redux, Redux Actions & reducers, Redux Store & Provider, Redux connect(), Redux ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-xnghg8v4eb4b-c801eec594474c6b85795c6f373eedc4.mp4
+
+15 oct 2022 -Assignment react
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-r23m0df1vyg5-009c8743233849079f55e024c665294e.mp4
