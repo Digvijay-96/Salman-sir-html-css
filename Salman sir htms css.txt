@@ -278,3 +278,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-akivd3b
 
 17 oct 2022 -React Deployment Steps, Building The Code For Production
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-0q96ts7xt0ba-f49d1782d5ea4c308af1d1dbe53e8bd4.mp4
+
+18 oct 2022 - React assignment,revision
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-n1qfzmxrf7d4-0d496242334f435c923e21b9cf951881.mp4
