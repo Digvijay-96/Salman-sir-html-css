@@ -284,3 +284,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-n1qfzmx
 
 20 oct 2022 - React prob session
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-2zjat7l2gyep-12cd7c6bcdd7456da8b27cff7b5644e9.mp4
+
+21 oct 2022 -react assignment
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-fvq3pul20488-9a1ed08d60cd4293a05926499bf21a5f.mp4
