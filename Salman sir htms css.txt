@@ -293,3 +293,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-x69h2ei
 
 26 oct 2022 - react revision
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-0nkubcbhl63d-9e0cb7203bf348dfb34e2be6fa2ceacb.mp4
+
+27 oct 2022 -Single thread vs multi thread, Export import require(node)
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-fpil0in922gd-ad49c39c14cd45229269ae7bdffdb048.mp4
