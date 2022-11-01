@@ -301,3 +301,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-fpil0in
 
 28 oct 2022 -Global object(node), Path,os module, EventEmitter, File System CRUD
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-0nfzx37kr03l-8e364d40bc364256a6c26fa36eda76ba.mp4
+
+31 oct 2022 -Core Node, Core Node Intro, Node Modules system and builtin modules, Libuv / asy ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-yp91sjfq64id-e74c9047958e41368939095588c819be.mp4
