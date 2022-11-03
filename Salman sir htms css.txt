@@ -304,3 +304,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-0nfzx37
 
 31 oct 2022 -Core Node, Core Node Intro, Node Modules system and builtin modules, Libuv / asy ...
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-yp91sjfq64id-e74c9047958e41368939095588c819be.mp4
+
+2 nov 2022 -Why needed , examples and why express, Express - REST/API, Express - Simple Serv ...
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-3uy8ujh1htju-a3bbc55101a84431b46f2d0cb3cefd3a.mp4
