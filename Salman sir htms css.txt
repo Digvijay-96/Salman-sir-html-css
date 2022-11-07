@@ -310,3 +310,9 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-3uy8ujh
 
 4 nov 2022 -Res.json, Res.status, Express.json, Req.body
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-x9741ukbw9w1-ac1db3487daa48fd95623e0b78301b9b.mp4
+
+5 nov 2022- App.use and middleware ecosystem, Req.params
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-08oveyhd3vx8-80884d043c234538b5af9a215ec10b16.mp4
+
+6 nov 2022 -Res.Set
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-duq1lbwv216x-3df13003a92c4857bcbce2d83a935573.mp4
