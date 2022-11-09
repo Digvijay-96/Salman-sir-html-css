@@ -316,3 +316,6 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-08oveyh
 
 6 nov 2022 -Res.Set
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-duq1lbwv216x-3df13003a92c4857bcbce2d83a935573.mp4
+
+8 nov 2022 -Res.send/res.sendFile, Express.static
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-tt04uklh1jyq-5907858a706e4ccb817a8d2a4d5725a7.mp4
