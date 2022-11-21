@@ -319,3 +319,24 @@ https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-duq1lbw
 
 8 nov 2022 -Res.send/res.sendFile, Express.static
 https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-tt04uklh1jyq-5907858a706e4ccb817a8d2a4d5725a7.mp4
+
+10 nov 2022 -  Request parameters, Express.urlencoded, Res.render/ejs/templating/ssr
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-pcgul4j3y7ny-1ffe6804420744fd9e194f5c7f2e2460.mp4
+
+11 nov 2022 -SSR/Templating, 3rd party middlewares
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-ugwkr96e50g8-90493138910c4e24a18306993b708c38.mp4
+
+13 nov 2022 -Basic Response object methods, Middlewares in Express, Cookies/req.cookies/res.c 
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-dd7f9j4j4heh-1e11be27778f434db376a2a17d10e11b.mp4
+
+15 nov 2022 -Backend, NodeJS, Node JS Frameworks, Express JS, HTTP status codes and headers
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-t800xo9u84s3-f567398768ce4493b6b7e265d5d01fbe.mp4
+
+16 Nov 2022- Mongo shell, Connect to DB/listing collections, Documents and Collections, CRUD
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-nui7orsryjmn-7bb8b5a091944be1b1d20a545f14405a.mp4
+
+17 nov 2022- Mongoose and ORM, TypeORM, Schema (Mongoose), Model (Mongoose)
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-thz88lvn3qyz-926d4f57315e4f4d8b072b81ba86875f.mp4
+
+18 nov 2022 -HTTP status codes and headers, Folder structure (Express), Mongoose
+https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-lwrnb3cflazo-bb94c2aca4d443e9bf4ccc415d7df900.mp4
